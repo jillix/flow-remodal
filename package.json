@@ -20,7 +20,5 @@
     "url": "https://github.com/jillix/flow-remodal/issues"
   },
   "homepage": "https://github.com/jillix/flow-remodal#readme",
-  "dependencies": {
-    "remodal": "^1.1.0"
-  }
+  "dependencies": {}
 }
